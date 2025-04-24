@@ -8,7 +8,7 @@
 ## 🔭 Atualmente
 - Desenvolvendo  com Python 
 - Apredendo Banco de Dados 
-- Buscando estágio em na area.
+- Buscando estágio  na area.
 
 
 ## 📫 Contato
